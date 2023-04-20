@@ -63,11 +63,7 @@ Skills: HTML / CSS / Bootstrap / JS / jQuery / WordPress/ Photoshop / illustrato
 <a href="https://web.facebook.com/profile.php?id=100089645936283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ellcizin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-yousuf-hossen-7aab90264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellcizin" height="30" width="40" /></a>
  
- <a href="https://github.com/ellcizin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
- 
- 
- <img align="center"  alt="github" height="30" width="40" /></a>
-
+ <a href="https://github.com/ellcizin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40"/></a>
 </p>
 
 
