@@ -73,14 +73,3 @@ Skills: HTML / CSS / Bootstrap / JS / jQuery / WordPress/ Photoshop / illustrato
 <a href="https://linkedin.com/company/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellcizin" height="30" width="40" /></a>
 </p>
 
-
-
-
-
-
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/ellcizin) 
-
