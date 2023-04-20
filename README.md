@@ -20,6 +20,24 @@ Skills: HTML / CSS / Bootstrap / JS / jQuery / WordPress/ Photoshop / illustrato
 - ⚡ Fun fact: I'm always best😃 
 
 
+![Profile views](https://gpvc.arturio.dev/ellcizin)  
+
+<h3 align="left">Connect with me on Personal profile</h3>
+<p align="left">
+<a href="https://web.facebook.com/profile.php?id=100089645936283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ellcizin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-yousuf-hossen-7aab90264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellcizin" height="30" width="40" /></a> <a href="https://github.com/ellcizin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40"/></a>
+</p>
+
+<h3 align="left">Connect with me on Business Profile</h3>
+<p align="left">
+<a href="https://fb.com/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ellcizin" height="30" width="40" /></a>
+<a href="https://instagram.com/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ellcizin" height="30" width="40" /></a>
+<a href="https://twitter.com/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ellcizin" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellcizin" height="30" width="40" /></a>
+</p>
+
+<p align="left"> <a href="https://twitter.com/ellcizin" target="blank"><img src="https://img.shields.io/twitter/follow/ellcizin?logo=twitter&style=for-the-badge" alt="ellcizin" /></a> </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
@@ -37,7 +55,6 @@ Skills: HTML / CSS / Bootstrap / JS / jQuery / WordPress/ Photoshop / illustrato
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ellcizin)  
 
-![Profile views](https://gpvc.arturio.dev/ellcizin)  
 
 
 
@@ -55,21 +72,4 @@ Skills: HTML / CSS / Bootstrap / JS / jQuery / WordPress/ Photoshop / illustrato
 
 
 
-
-<p align="left"> <a href="https://twitter.com/ellcizin" target="blank"><img src="https://img.shields.io/twitter/follow/ellcizin?logo=twitter&style=for-the-badge" alt="ellcizin" /></a> </p>
-
-<h3 align="left">Connect with me on Personal profile</h3>
-<p align="left">
-<a href="https://web.facebook.com/profile.php?id=100089645936283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ellcizin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-yousuf-hossen-7aab90264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellcizin" height="30" width="40" /></a> <a href="https://github.com/ellcizin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40"/></a>
-</p>
-
-
-<h3 align="left">Connect with me on Business Profile</h3>
-<p align="left">
-<a href="https://fb.com/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ellcizin" height="30" width="40" /></a>
-<a href="https://instagram.com/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ellcizin" height="30" width="40" /></a>
-<a href="https://twitter.com/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ellcizin" height="30" width="40" /></a>
-<a href="https://linkedin.com/company/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellcizin" height="30" width="40" /></a>
-</p>
 
