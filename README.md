@@ -61,10 +61,11 @@ Skills: HTML / CSS / Bootstrap / JS / jQuery / WordPress/ Photoshop / illustrato
 <h3 align="left">Connect with me on Personal profile</h3>
 <p align="left">
 <a href="https://web.facebook.com/profile.php?id=100089645936283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ellcizin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-yousuf-hossen-7aab90264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellcizin" height="30" width="40" /></a> 
-
+<a href="https://www.linkedin.com/in/md-yousuf-hossen-7aab90264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellcizin" height="30" width="40" /></a>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/ellcizin) 
 
 </p>
+
+
 <h3 align="left">Connect with me on Business Profile</h3>
 <p align="left">
 <a href="https://fb.com/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ellcizin" height="30" width="40" /></a>
@@ -82,5 +83,5 @@ Skills: HTML / CSS / Bootstrap / JS / jQuery / WordPress/ Photoshop / illustrato
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ellcizin) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/ellcizin) 
 
