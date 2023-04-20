@@ -35,10 +35,11 @@ Skills: HTML / CSS / Bootstrap / JS / jQuery / WordPress/ Photoshop / illustrato
 <a href="https://twitter.com/ellcizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ellcizin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/ellcizin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellcizin" height="30" width="40" /></a>
 </p>
+<h3 align="left">WhatsApp me:</h3>  
+<h4 align="left">+8801325589166</h4>
 
 <p align="left"> <a href="https://twitter.com/ellcizin" target="blank"><img src="https://img.shields.io/twitter/follow/ellcizin?logo=twitter&style=for-the-badge" alt="ellcizin" /></a> </p>
-<h3 align="left">WhatsApp me:</h3>  
-+8801325589166
+
 
 
 
