@@ -2,14 +2,14 @@
 
 
 ### Hi there 👋, I'm Md Yousuf Hossen
-#### Web Design, Graphics Design & Digital Marketing Expert…
+#### Web Development, Graphics Design & Digital Marketing Expert…
 ![Web Design, Graphics Design & Digital Marketing Expert…](https://media.licdn.com/dms/image/D5616AQFEdFbYNYjqkQ/profile-displaybackgroundimage-shrink_350_1400/0/1681759340238?e=1687392000&v=beta&t=oy63zYp7hxQa2tDf-KHgflSyakacvj8f7feezP2jauE)
 
-I'm a Professional Web Designer. Also, capable of Graphic Design and Digital Marketing. On this subject I have completed a long train from the Outsourcing Institute and joined many practical projects. I will create Responsive Website without any coding problem and also, promote any Business or Services to millions of people world-wide. I can understand the customer psychology and create very attractive and effective web content to promote any Business. I can work with full responsibility for a large organization and be able to work with self-direction and inspiration. 
+I'm a Professional Web Developer. Also, capable of Graphic Design and Digital Marketing. On this subject I have completed a long train from the Outsourcing Institute and joined many practical projects. I will create Responsive Website without any coding problem and also, promote any Business or Services to millions of people world-wide. I can understand the customer psychology and create very attractive and effective web content to promote any Business. I can work with full responsibility for a large organization and be able to work with self-direction and inspiration. 
 Thanks
 
 
-Skills: HTML / CSS / Bootstrap / JS / jQuery / WordPress/ Photoshop / illustrator / Ads Campaign
+Skills: HTML / CSS / Bootstrap / JavaScript / jQuery / React js/ Node js / Express js / MongoDB / WordPress/ Photoshop / illustrator / Ads Campaign
 
 
 - 🔭 I’m currently working on various projects 
